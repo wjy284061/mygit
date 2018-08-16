@@ -1,1 +1,1 @@
-git 是一个分布式管理系统
+Git is a distributed version control system
